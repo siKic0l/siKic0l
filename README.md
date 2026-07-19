@@ -41,7 +41,9 @@ Others
 
 ![](https://github-readme-stats.vercel.app/api?username=siKic0l&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siKic0l&layout=compact&theme=tokyonight&hide_border=true)
+## 💻 Most Used Languages
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=siKic0l&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=siKic0l&theme=tokyonight&hide_border=true)
 
