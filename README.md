@@ -36,3 +36,5 @@ Others
 - Git
 - GitHub
 - Vercel
+
+![siKic0l's GitHub Stats](https://readme-stats-github.pages.dev/api?username=siKic0l&theme=dark)
