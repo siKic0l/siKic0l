@@ -37,4 +37,4 @@ Others
 - GitHub
 - Vercel
 
-![siKic0l's GitHub Stats](https://readme-stats-github.pages.dev/api?username=siKic0l&theme=dark)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=siKic0l&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
