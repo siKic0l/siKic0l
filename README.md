@@ -62,14 +62,6 @@ business systems, and reliable software solutions.
 
 # 📊 GitHub Statistics
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=siKic0l&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siKic0l&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
 ---
 
 <div align="center">
