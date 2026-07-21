@@ -2,7 +2,7 @@
 
 # Hi, I'm Nurrohmi Zaki 👋
 
-### 💻 Software Engineer • 🌐 Full Stack Developer • 🧪 QA Enthusiast
+### Software Engineer • Full Stack Developer • QA Enthusiast
 
 <p>
 Building software that solves real business problems through scalable web applications,
@@ -21,22 +21,22 @@ business systems, and reliable software solutions.
 
 ---
 
-# 🚀 About Me
+# About Me
 
 <img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-- 💼 Software Engineer at **Blast ID**
-- 🎮 Co-Founder of **Murasaki Creation**
-- 🧪 Passionate about **Software Quality**, **Testing**, and **Automation**
-- 🌱 Currently learning **Quality Assurance** & **Test Automation**
-- 💡 Interested in Web Development, Software Engineering, and Clean Architecture
-- 🎯 Building reliable software that creates real impact
+- Software Engineer at **Blast ID**
+- Co-Founder of **Murasaki Creation**
+- Passionate about **Software Quality**, **Testing**, and **Automation**
+- Currently learning **Quality Assurance** & **Test Automation**
+- Interested in Web Development, Software Engineering, and Clean Architecture
+- Building reliable software that creates real impact
 
 <br clear="right"/>
 
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
 <div align="center">
 
@@ -60,7 +60,7 @@ business systems, and reliable software solutions.
 
 ---
 
-# 📈 Contribution Graph
+# Contribution Graph
 
 <div align="center">
 
@@ -70,7 +70,7 @@ business systems, and reliable software solutions.
 
 ---
 
-# 🌐 Connect With Me
+# Connect With Me
 
 <div align="center">
 
@@ -92,6 +92,6 @@ business systems, and reliable software solutions.
 
 <div align="center">
 
-### 💙 *"Code with purpose. Build with passion."*
+###*"Code with purpose. Build with passion."*
 
 </div>
