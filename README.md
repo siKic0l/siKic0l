@@ -92,6 +92,6 @@ business systems, and reliable software solutions.
 
 <div align="center">
 
-###*"Code with purpose. Build with passion."*
+*"Code with purpose. Build with passion."*
 
 </div>
